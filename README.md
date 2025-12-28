@@ -1,10 +1,8 @@
-## Hi there 👋
+I'm a software developer from Spain who builds for fun and profit. Some of the projects I have worked on are:
 
-Over the past 10 years, I have worked as a software developer and tech lead for startups. Since 2019, I have been working independently, helping startups and founders build web and mobile applications.
-
-I have shipped e-commerce platforms, SaaS products, and native mobile apps for early-stage founders, creators, and growing teams.
-
-I particularly enjoy working in small teams, where a more generalist profile is needed and I can take on multiple roles across the product.
+- [Picmal](https://picmal.app) - All-in-one media converter for Mac
+- [Lumiv](https://lumivapp.com) - Automatic blue light screen filter
+- [Natural.fm](https://natural.fm/) - Your natural sounds radio for those days when nature is too far away from home
 
 If you are looking to launch a project or need an extra pair of hands to move things forward, feel free to email me and we can chat.
 
